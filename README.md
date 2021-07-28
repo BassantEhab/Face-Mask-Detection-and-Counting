@@ -1,1 +1,1 @@
-# Face-Mask-Detection-and-Counting
+Object detection is a computer vision technique that allows us to identify and locate objects in an image or video. With this kind of identification and localization, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them. Detect the peoples in the image wearing mask or not or wearing it in correctly by applying Deep Learning models and computer vision techniques.
